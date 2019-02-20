@@ -1,0 +1,5 @@
+﻿  algorithm4_2.cpp
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2\algorithm4_2\algorithm4_2.cpp(136): warning C4101: “j”: 未引用的局部变量
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2\algorithm4_2\algorithm4_2.cpp(227): warning C4018: “<”: 有符号/无符号不匹配
+  algorithm4_2.vcxproj -> D:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2\Debug\algorithm4_2.exe
+  algorithm4_2.vcxproj -> D:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2\Debug\algorithm4_2.pdb (Full PDB)

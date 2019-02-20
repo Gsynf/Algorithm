@@ -1,0 +1,4 @@
+﻿  algorithm4_2_2.cpp
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_2\algorithm4_2_2\algorithm4_2_2.cpp(195): warning C4305: “初始化”: 从“double”到“float”截断
+  algorithm4_2_2.vcxproj -> D:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_2\Debug\algorithm4_2_2.exe
+  algorithm4_2_2.vcxproj -> D:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_2\Debug\algorithm4_2_2.pdb (Full PDB)

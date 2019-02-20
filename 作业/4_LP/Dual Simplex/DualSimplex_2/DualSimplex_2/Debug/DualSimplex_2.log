@@ -1,0 +1,4 @@
+﻿  DualSimplex_2.cpp
+d:\学习\课程学习\计算机算法设计与分析\作业\4\dual simplex\dualsimplex_2\dualsimplex_2\dualsimplex_2.cpp(128): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  DualSimplex_2.vcxproj -> D:\学习\课程学习\计算机算法设计与分析\作业\4\Dual Simplex\DualSimplex_2\Debug\DualSimplex_2.exe
+  DualSimplex_2.vcxproj -> D:\学习\课程学习\计算机算法设计与分析\作业\4\Dual Simplex\DualSimplex_2\Debug\DualSimplex_2.pdb (Full PDB)

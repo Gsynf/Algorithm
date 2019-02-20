@@ -1,0 +1,13 @@
+﻿  algorithm4_2_1.cpp
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(74): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(77): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(116): warning C4018: “<”: 有符号/无符号不匹配
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(134): error C2131: 表达式的计算结果不是常数
+  d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(134): note: 非常量参数或对非常量符号的引用导致了故障
+  d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(134): note: 请参见“this”的用法
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(136): error C2131: 表达式的计算结果不是常数
+  d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(136): note: 非常量参数或对非常量符号的引用导致了故障
+  d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(136): note: 请参见“this”的用法
+d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(138): error C2131: 表达式的计算结果不是常数
+  d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(138): note: 非常量参数或对非常量符号的引用导致了故障
+  d:\学习\课程学习\计算机算法设计与分析\作业\4\algorithm4_2_1\algorithm4_2_1\algorithm4_2_1.cpp(138): note: 请参见“this”的用法
